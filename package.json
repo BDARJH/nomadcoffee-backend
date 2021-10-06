@@ -29,7 +29,8 @@
     "graphql": "^15.6.0",
     "graphql-tools": "^7.0.2",
     "jsonwebtoken": "^8.5.1",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "slug": "^5.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
